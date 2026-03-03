@@ -106,8 +106,7 @@ docs: documentation changes
 
 ## Live demo
 
-🔗 [View demo on Vercel](#) ← *(update once deployed)*
-
+🔗 [View demo on Vercel](https://redi-front.vercel.app/)
 ---
 
 ## About
